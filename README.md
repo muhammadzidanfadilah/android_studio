@@ -1,1 +1,1 @@
-![gambar1](gambar-o/gg.png) 
+![gambar1](gambar-o/oki.png) 
